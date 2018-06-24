@@ -2,10 +2,10 @@
 A library for messing with people in ES6
 
 Download this JS file  
-OR   
+**OR**   
 Load it like this:  
 `<script src="https://scalarfield.github.io/js/tools/memekit.js">`  
-OR  
+**OR**  
 Load it into any webpage from the console with  
 `document.head.appendChild((($, s)=>{$.src=s;return $})(document.createElement('script'), "https://scalarfield.github.io/js/tools/memekit.js"))`  
   
