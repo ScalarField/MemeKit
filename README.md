@@ -1,9 +1,11 @@
-# MemeKit
-A library for messing with people
+# MemeKit v0.1.0
+A library for messing with people  
 
-Start by creating a new `MemeKit` object:  
-`let tools = new MemeKit()`
-Then let the fun begin.
+Start by creating a new `MemeKit` object:    
+`let tools = new MemeKit()`  
+Then let the fun begin.  
+
+##More presets, images, and features coming soon
 
 **All optional parameters to functions are inputted last**
 **Remember that `element` refers to an element object**
