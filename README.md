@@ -17,7 +17,7 @@ Then let the fun begin.
 
 _More presets, images, and features coming soon_
 
-**All optional parameters to functions are inputted last**
+**All optional parameters to functions are inputted last**  
 **Remember that `element` refers to an element object**
 
 `MemeKit.rickroll()`
