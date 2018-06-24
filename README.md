@@ -1,5 +1,15 @@
 # MemeKit v0.1.0
-A library for messing with people  
+A library for messing with people in ES6
+
+Download this JS file
+OR 
+Load it like this:
+`<script src="https://scalarfield.github.io/js/tools/memekit.js">`
+OR
+Load it into any webpage from the console with
+`document.head.appendChild((($, s)=>{$.src=s;return $})(document.createElement('script'), "https://scalarfield.github.io/js/tools/memekit.js"))`
+
+----------------
 
 Start by creating a new `MemeKit` object:    
 `let tools = new MemeKit()`  
