@@ -63,3 +63,5 @@ _More presets, images, and features coming soon_
  * Replaces `innerHTML` of `element` with image returned by `getMeme`
  * `id` is the parameter for `getMeme` (use `"random"` for `id` for random image)
  * `fit` is true if you want to fit the image to `element`'s dimensions, and false if you'll use the image's default size
+ 
+ (Just in case I need to mess with someone later: `alias rickroll="open https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1"`)
