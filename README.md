@@ -1,6 +1,8 @@
 # MemeKit v0.1.0
 A library for messing with people in ES6
 
+**Note**: I do not own most of the images used here. If anyone has a problem with me using one of these images, contact me and I will remove it as soon as possible.
+
 Download this JS file  
 **OR**   
 Load it like this:  
@@ -58,7 +60,6 @@ _More presets, images, and features coming soon_
  * Can specify an optional ID number to get specific image
  * `w` and `h` specify width and height for the image
  * Set `w` and `h` to something like `undefined` to use default image dimensions
- * Note: I do not own most of the images used here. If anyone has a problem with me using one of these images, contact me and I will remove it as soon as possible.
  
  `MemeKit.insertMeme(element, id, fit)`
  * Replaces `innerHTML` of `element` with image returned by `getMeme`
