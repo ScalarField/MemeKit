@@ -1,7 +1,7 @@
 # MemeKit v0.1.0
 A library for messing with people in ES6
 
-**Note**: I do not own most of the images used here. If anyone has a problem with me using one of these images, contact me and I will remove it as soon as possible.
+**Note**: I do not own most of the images used here. If anyone has a problem with me using one of these images, contact me and I will remove it as soon as possible (pretty much all the images I don't own are from Instagram and Reddit).
 
 Download this JS file  
 **OR**   
