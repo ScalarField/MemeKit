@@ -66,4 +66,10 @@ _More presets, images, and features coming soon_
  * `id` is the parameter for `getMeme` (use `"random"` for `id` for random image)
  * `fit` is true if you want to fit the image to `element`'s dimensions, and false if you'll use the image's default size
  
+ `MemeKit.inputCipher(ct="random")`
+ * Affects all text inputs and `textareas`
+ * When you type a key into an input, it gets remapped using a Monoalphabetic Substitution Cipher (MASC)
+ * `ct` is an optional parameter outlining the remapped alphabet (must be a permutation of the English lowercase alphabet)
+ * By default, it generates a random MASC
+ 
  (Just in case I need to mess with someone later: `alias rickroll="open https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1"`)
