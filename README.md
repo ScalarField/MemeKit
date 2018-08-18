@@ -13,6 +13,7 @@ Load it like this:
 Load it into any webpage from the console with  
 `document.head.appendChild((($, s)=>{$.src=s;return $})(document.createElement('script'), "https://scalarfield.github.io/js/tools/memekit.js"))`  
 **OR**
+
 Invite the MemeKit Discord bot to your server, though I can't promise it'll be online all the time.
 (Type `$help` into the chat for documentation)
 
