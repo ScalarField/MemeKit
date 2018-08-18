@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin: *
 {
 	"standard" : "An error occurred. Please try again.",
 	"shakespeare" : "The fault, dear User, is not in my code, but in yourself, that you fell for this.",
