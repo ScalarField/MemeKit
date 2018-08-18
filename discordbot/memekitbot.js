@@ -8,7 +8,7 @@ const commandList = ["rickroll", "error", "write", "getMeme", "inputCipher", "ra
 const aliases = ["rickroll", "error", "write", "meme", "cipher", "masc", "help"];
 const trigger = "$";
 const argTrigger = "^";
-const targetUser = "adishpan";
+const targetUser = "[insert_target_user_here]";
 
 logger.remove(logger.transports.Console);
 
@@ -63,7 +63,7 @@ memebot.on('message', (user, uID, cID, message, event) => {
 			if(user === targetUser){
 				memebot.sendMessage({
 					to: cID,
-					message: `<@${uID}> Why, Varad?`
+					message: `<@${uID}> [message_for_target]`
 				});	
 			}
 		}
