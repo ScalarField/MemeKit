@@ -1,6 +1,8 @@
 # MemeKit v0.2.0
 A library for messing with people in ES6
 
+(There's also now a Discord bot that uses a module containing modified MemeKit functionality.)
+
 **Note**: I do not own some of the images used here (the ones that are most obviously memes). If anyone has a problem with me using one of these images, report it as an issue and I will remove it as soon as possible (pretty much all the images I don't own are from Instagram and Reddit).
 
 Download this JS file  
@@ -10,6 +12,10 @@ Load it like this:
 **OR**  
 Load it into any webpage from the console with  
 `document.head.appendChild((($, s)=>{$.src=s;return $})(document.createElement('script'), "https://scalarfield.github.io/js/tools/memekit.js"))`  
+**OR**
+Invite the MemeKit Discord bot to your server, though I can't promise it'll be online all the time.
+(Type `$help` into the chat for documentation)
+
   
 ----------------
 
