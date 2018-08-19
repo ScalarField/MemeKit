@@ -1,0 +1,11 @@
+{
+  "name": "memekit-bot",
+  "version": "1.0.0",
+  "description": "MemeKit Bot",
+  "main": "memekitbot.js",
+  "author": "ScalarField",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
