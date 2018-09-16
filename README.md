@@ -20,6 +20,8 @@ Load it into any webpage from the console with
 **OR**
 
 Invite the MemeKit Discord bot to your server, though I can't promise it'll be online all the time.
+https://discordapp.com/oauth2/authorize?&client_id=480204766396284940&scope=bot&permissions=59392
+
 (Type `$help` into the chat for documentation)
 
   
