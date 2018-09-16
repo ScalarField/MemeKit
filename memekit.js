@@ -186,7 +186,7 @@ class MemeKit{
 		
 	}
 	
-	asciiArt(message){
+	asciiArt(message="random"){
 		let text;
 		if(message === "random"){
 			text = this.randomPropertyOf(this.errorPresets);
