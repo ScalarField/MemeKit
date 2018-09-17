@@ -1,4 +1,4 @@
-# MemeKit v0.2.0
+# MemeKit v0.3.0
 A library for messing with people in ES6
 
 (There's also now a Discord bot that uses a module containing modified MemeKit functionality.)
