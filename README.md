@@ -5,6 +5,8 @@ A library for messing with people in ES6
 
 **Note**: I do not own some of the images used here (the ones that are most obviously memes). If anyone has a problem with me using one of these images, report it as an issue and I will remove it as soon as possible (pretty much all the images I don't own are from Instagram and Reddit).
 
+**How to Use**
+
 Download this JS file  
 
 **OR**   
