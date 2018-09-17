@@ -86,9 +86,10 @@ _More presets, images, and features coming soon_
  * `ct` is an optional parameter outlining the remapped alphabet (must be a permutation of the English lowercase alphabet)
  * By default, it generates a random MASC
  
-  `MemeKit.asciiArt(message="random")`
+  `MemeKit.asciiArt(message="random", c="*")`
  * Returns a `<p>` with the input written as ASCII art letters
  * Rules for parameter same as the `error` and `rewrite` methods
+ * Second parameter specifies which character to draw with — default is `*`
  * Use \` to indicate a line break
  
  (Just in case I need to mess with someone later: `alias rickroll="open https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1"`)
