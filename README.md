@@ -89,5 +89,6 @@ _More presets, images, and features coming soon_
   `MemeKit.asciiArt(message="random")`
  * Returns a `<p>` with the input written as ASCII art letters
  * Rules for parameter same as the `error` and `rewrite` methods
+ * Use \` to indicate a line break
  
  (Just in case I need to mess with someone later: `alias rickroll="open https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1"`)
