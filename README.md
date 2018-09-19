@@ -65,7 +65,7 @@ _More presets, images, and features coming soon_
 * `steps` is the number of steps takes to get from min to max value
 * Takes one step every `delay` milliseconds
 
-`MemeKit.animateColor(element, property, c1, c2, steps, delay`
+`MemeKit.animateColor(element, property, c1, c2, steps, delay`)
 * Changes color of `element` back and forth between  `c1` and `c2`
 * `property` is the color property to modify, such as `color` or `backgroundColor`
 * `c1` and `c2` are arrays of the form `[redValue, greenValue, blueValue]` where each value is between 0 and 255
