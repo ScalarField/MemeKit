@@ -4,7 +4,7 @@ let cipher = "";
 class MemeKit{
 	
 	constructor(){
-		this.memeCount = 23; //Update this system later with dynamic count
+		this.memeCount = 322; //Update this system later with dynamic count
 		this.errorPresets = 
 		{
 			"standard" : "An error occurred. Please try again.",
